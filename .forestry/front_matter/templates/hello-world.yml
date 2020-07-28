@@ -8,3 +8,5 @@ fields:
     required: false
   label: Hello World
   description: First page
+pages:
+- content/hello_world.md
