@@ -1,4 +1,10 @@
 ---
 label: Hello World
 hide_body: false
-fields: []
+fields:
+- name: hello_world
+  type: text
+  config:
+    required: false
+  label: Hello World
+  description: First page
